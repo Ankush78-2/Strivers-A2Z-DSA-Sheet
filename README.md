@@ -1,5 +1,5 @@
 # Strivers-A2Z-DSA-sheet
-DSA Problems
+DSA Problems: 
 This repository contains approach and solution to
 the problems contained in Strivers-A2Z-DSA-Sheet
 =========================================================================================
